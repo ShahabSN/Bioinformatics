@@ -1,2 +1,2 @@
 # Bioinformatics
-Bioinformatics 2nd Sem
+Bioinformatics Master 2nd Sem
